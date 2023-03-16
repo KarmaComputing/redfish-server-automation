@@ -1,5 +1,6 @@
 # Control Physical Server(s) via the Redfish api (e.g. Dell iDRAC)
 
+[Redfish-boot-server-python-api-idrac-2023-03-16 20-48-51.webm](https://user-images.githubusercontent.com/1718624/225755339-faafd339-4d5f-4d12-b7a7-8187d7963362.webm)
 
 ## Setup
 
