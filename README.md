@@ -2,6 +2,8 @@
 
 [Redfish-boot-server-python-api-idrac-2023-03-16 20-48-51.webm](https://user-images.githubusercontent.com/1718624/225755339-faafd339-4d5f-4d12-b7a7-8187d7963362.webm)
 
+Associated blog post: [DevOps with physical servers using Redfish Python api](https://blog.karmacomputing.co.uk/devops-with-physical-servers-redfish-python-api-idrac/)
+
 ## Setup
 
 ```
